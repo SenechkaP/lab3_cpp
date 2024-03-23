@@ -1,0 +1,6 @@
+5
+asd asd 1 2
+dfg dfg 2 0
+ert ert 3 2
+qw qw 2 1
+tyu tyu 3 0
